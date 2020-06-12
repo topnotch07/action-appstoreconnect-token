@@ -1,6 +1,9 @@
 name: 'App Store Connect API Token'
 description: 'App Store Connect API token generator.'
 author: 'yuki0n0'
+- name: App Store Connect API Token
+  uses: yuki0n0/action-appstoreconnect-token@v1.0
+
 
 branding:
   icon: 'unlock'
